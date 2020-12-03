@@ -1,11 +1,17 @@
 [tool.poetry]
 name = "han"
 version = "0.1.0"
-description = ""
+keywords = [
+    "aa",
+    "bb",
+    "cc",
+]
+description = "aaaaaaaaaa"
 authors = ["piqizhu"]
 readme = "README.md"
 homepage = "https://github.com/piqizhu/han"
 repository = "https://github.com/piqizhu/han"
+documentation = "https://github.com/piqizhu/han"  # 文档地址
 
 
 [tool.poetry.dependencies]
