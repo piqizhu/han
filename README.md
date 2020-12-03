@@ -18,8 +18,8 @@ han = 汉(字)
 >
 >你可以根据自己的需要使用本项目的 `四舍五入()` 或者用python自带的 `round()`
 >
->注：经过简单测试，在以下语言中，round函数的返回值是符合直觉的，这让我们有底气重写 `四舍五入()` :
->php（round）、c++（round）、c#（Math.Round）、office Excel(round)   
+>注：经过简单测试，在以下语言中，round函数的返回值是符合直觉的，这让我们有底气重写 `四舍五入()` :    
+>php（round）、c++（round）、c#（Math.Round）、office Excel(round)      
 >其他语言，软件 没有测试，不太懂
  
  
@@ -44,7 +44,10 @@ github（速度慢） https://xxxxx.com
 
 
 ## 测试
- 
+ 1、下载代码到本地,进入代码根目录    
+ 2、执行 `pip install poetry `   
+ 3、执行 `poetry install`   
+ 4、执行 `pytest`    
 
 ## 历史版本
 
