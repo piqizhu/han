@@ -11,7 +11,7 @@ authors = ["piqizhu"]
 readme = "README.md"
 homepage = "https://github.com/piqizhu/han"
 repository = "https://github.com/piqizhu/han"
-documentation = "https://github.com/piqizhu/han"  # 文档地址
+#documentation = "https://github.com/piqizhu/han"  # 文档地址
 
 
 [tool.poetry.dependencies]
