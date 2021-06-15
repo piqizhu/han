@@ -32,9 +32,13 @@ han = 汉(字)
 `pip install han`
 
 ## 用法
-简要用法
 
-https://gitee.com/piqizhu/han
+```python
+from han.数学 import *
+
+求绝对值(-123)
+ 
+```
 
 ## 文档
 
@@ -49,6 +53,4 @@ github（速度慢） https://xxxxx.com
  3、执行 `poetry install`   
  4、执行 `pytest`    
 
-## 历史版本
-
-https://pypi.org/project/han/#history
+ 
