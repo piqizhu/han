@@ -2,8 +2,10 @@
 # han
 ![PyPI](https://img.shields.io/pypi/v/han?style=plastic)
 
+```
 han = 汉    
 han = 汉(字) 
+```
 
 一个python常用函数库，里面的函数都是中文汉字
 
